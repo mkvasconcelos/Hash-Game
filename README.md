@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="/imagens/linkedin_logo.png" width="175" alt="" />
-</p>
-
-# LinkedIn Homepage
+# Hash Game of Football
 
 ## About
 <p>
