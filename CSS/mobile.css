@@ -1,0 +1,17 @@
+@media (max-width: 400px){
+    .square{
+        text-align: center;
+        width: 50px;
+        background: #eee;
+        display: inline-block;
+        padding: 30px;
+        font-size: 60px;
+        margin: 0.5%;
+        cursor: pointer;
+        color: #eee;
+        font-weight: bold;
+        
+    }
+
+    }
+  
